@@ -55,13 +55,3 @@ venv.bak/
 .Trashes
 ehthumbs.db
 Thumbs.db
-
-# Cursor
-.cursor/
-
-# Temporary files
-*.tmp
-*.temp
-*_demo.py
-*_comparison.py
-test_*.py 
